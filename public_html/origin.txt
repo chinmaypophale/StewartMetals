@@ -1,0 +1,420 @@
+Uri: http://al-can.com/index.html
+File Name: c:\Downloaded Web Sites\al-can.com\index.html
+Content Type: text/html
+
+Uri: http://al-can.com/css/bootstrap.min.css
+File Name: c:\Downloaded Web Sites\al-can.com\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: http://al-can.com/css/style.css
+File Name: c:\Downloaded Web Sites\al-can.com\css\style.css
+Content Type: text/css
+
+Uri: http://al-can.com/about-us.html
+File Name: c:\Downloaded Web Sites\al-can.com\about-us.html
+Content Type: text/html
+
+Uri: http://al-can.com/features.html
+File Name: c:\Downloaded Web Sites\al-can.com\features.html
+Content Type: text/html
+
+Uri: http://al-can.com/quality.html
+File Name: c:\Downloaded Web Sites\al-can.com\quality.html
+Content Type: text/html
+
+Uri: http://al-can.com/products.html
+File Name: c:\Downloaded Web Sites\al-can.com\products.html
+Content Type: text/html
+
+Uri: http://al-can.com/customization.html
+File Name: c:\Downloaded Web Sites\al-can.com\customization.html
+Content Type: text/html
+
+Uri: http://al-can.com/export.html
+File Name: c:\Downloaded Web Sites\al-can.com\export.html
+Content Type: text/html
+
+Uri: http://al-can.com/contact-us.html
+File Name: c:\Downloaded Web Sites\al-can.com\contact-us.html
+Content Type: text/html
+
+Uri: http://al-can.com/plus-10-type.html
+File Name: c:\Downloaded Web Sites\al-can.com\plus-10-type.html
+Content Type: text/html
+
+Uri: http://al-can.com/plus-14-type.html
+File Name: c:\Downloaded Web Sites\al-can.com\plus-14-type.html
+Content Type: text/html
+
+Uri: http://al-can.com/plus-24-type.html
+File Name: c:\Downloaded Web Sites\al-can.com\plus-24-type.html
+Content Type: text/html
+
+Uri: http://al-can.com/plus-28-type.html
+File Name: c:\Downloaded Web Sites\al-can.com\plus-28-type.html
+Content Type: text/html
+
+Uri: http://al-can.com/plus-45-type.html
+File Name: c:\Downloaded Web Sites\al-can.com\plus-45-type.html
+Content Type: text/html
+
+Uri: http://al-can.com/4-mouth-container.html
+File Name: c:\Downloaded Web Sites\al-can.com\4-mouth-container.html
+Content Type: text/html
+
+Uri: http://al-can.com/glass-bottles.html
+File Name: c:\Downloaded Web Sites\al-can.com\glass-bottles.html
+Content Type: text/html
+
+Uri: http://al-can.com/plugless-bottles.html
+File Name: c:\Downloaded Web Sites\al-can.com\plugless-bottles.html
+Content Type: text/html
+
+Uri: http://al-can.com/plus-29-type.html
+File Name: c:\Downloaded Web Sites\al-can.com\plus-29-type.html
+Content Type: text/html
+
+Uri: http://al-can.com/new-arrivals.html
+File Name: c:\Downloaded Web Sites\al-can.com\new-arrivals.html
+Content Type: text/html
+
+Uri: http://al-can.com/bullet-container.html
+File Name: c:\Downloaded Web Sites\al-can.com\bullet-container.html
+Content Type: text/html
+
+Uri: http://al-can.com/hobbock-container.html
+File Name: c:\Downloaded Web Sites\al-can.com\hobbock-container.html
+Content Type: text/html
+
+Uri: http://al-can.com/img/logo.png
+File Name: c:\Downloaded Web Sites\al-can.com\img\logo.png
+Content Type: image/png
+
+Uri: http://al-can.com/img/arrow.png
+File Name: c:\Downloaded Web Sites\al-can.com\img\arrow.png
+Content Type: image/png
+
+Uri: http://al-can.com/img/banner.jpg
+File Name: c:\Downloaded Web Sites\al-can.com\img\banner.jpg
+Content Type: image/jpeg
+
+Uri: http://al-can.com/img/10.jpg
+File Name: c:\Downloaded Web Sites\al-can.com\img\10.jpg
+Content Type: image/jpeg
+
+Uri: http://al-can.com/img/14.jpg
+File Name: c:\Downloaded Web Sites\al-can.com\img\14.jpg
+Content Type: image/jpeg
+
+Uri: http://al-can.com/img/24.jpg
+File Name: c:\Downloaded Web Sites\al-can.com\img\24.jpg
+Content Type: image/jpeg
+
+Uri: http://al-can.com/img/28.jpg
+File Name: c:\Downloaded Web Sites\al-can.com\img\28.jpg
+Content Type: image/jpeg
+
+Uri: http://al-can.com/img/45.jpg
+File Name: c:\Downloaded Web Sites\al-can.com\img\45.jpg
+Content Type: image/jpeg
+
+Uri: http://al-can.com/img/4-mouth.jpg
+File Name: c:\Downloaded Web Sites\al-can.com\img\4-mouth.jpg
+Content Type: image/jpeg
+
+Uri: http://al-can.com/img/y-model.jpg
+File Name: c:\Downloaded Web Sites\al-can.com\img\y-model.jpg
+Content Type: image/jpeg
+
+Uri: http://al-can.com/img/plugless.jpg
+File Name: c:\Downloaded Web Sites\al-can.com\img\plugless.jpg
+Content Type: image/jpeg
+
+Uri: http://al-can.com/img/29.jpg
+File Name: c:\Downloaded Web Sites\al-can.com\img\29.jpg
+Content Type: image/jpeg
+
+Uri: http://al-can.com/img/new-arrivals.jpg
+File Name: c:\Downloaded Web Sites\al-can.com\img\new-arrivals.jpg
+Content Type: image/jpeg
+
+Uri: http://al-can.com/img/bullet.jpg
+File Name: c:\Downloaded Web Sites\al-can.com\img\bullet.jpg
+Content Type: image/jpeg
+
+Uri: http://al-can.com/img/hobbock.jpg
+File Name: c:\Downloaded Web Sites\al-can.com\img\hobbock.jpg
+Content Type: image/jpeg
+
+Uri: http://al-can.com/img/tel.png
+File Name: c:\Downloaded Web Sites\al-can.com\img\tel.png
+Content Type: image/png
+
+Uri: http://al-can.com/img/fax.png
+File Name: c:\Downloaded Web Sites\al-can.com\img\fax.png
+Content Type: image/png
+
+Uri: http://al-can.com/img/mail.png
+File Name: c:\Downloaded Web Sites\al-can.com\img\mail.png
+Content Type: image/png
+
+Uri: http://al-can.com/js/jquery.min.js
+File Name: c:\Downloaded Web Sites\al-can.com\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: http://al-can.com/js/bootstrap.min.js
+File Name: c:\Downloaded Web Sites\al-can.com\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: http://al-can.com/fonts/Roboto-Regular.woff
+File Name: c:\Downloaded Web Sites\al-can.com\fonts\Roboto-Regular.woff
+Content Type: application/x-font-woff
+
+Uri: http://al-can.com/fonts/Roboto-Regular.ttf
+File Name: c:\Downloaded Web Sites\al-can.com\fonts\Roboto-Regular.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://al-can.com/fonts/Roboto-Regular.svg
+File Name: c:\Downloaded Web Sites\al-can.com\fonts\Roboto-Regular.svg
+Content Type: image/svg+xml
+
+Uri: http://al-can.com/fonts/Allerta-Regular.woff
+File Name: c:\Downloaded Web Sites\al-can.com\fonts\Allerta-Regular.woff
+Content Type: application/x-font-woff
+
+Uri: http://al-can.com/fonts/Allerta-Regular.ttf
+File Name: c:\Downloaded Web Sites\al-can.com\fonts\Allerta-Regular.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://al-can.com/fonts/Allerta-Regular.svg
+File Name: c:\Downloaded Web Sites\al-can.com\fonts\Allerta-Regular.svg
+Content Type: image/svg+xml
+
+Uri: http://al-can.com/fonts/OpenSans-Semibold.woff
+File Name: c:\Downloaded Web Sites\al-can.com\fonts\OpenSans-Semibold.woff
+Content Type: application/x-font-woff
+
+Uri: http://al-can.com/fonts/OpenSans-Semibold.ttf
+File Name: c:\Downloaded Web Sites\al-can.com\fonts\OpenSans-Semibold.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://al-can.com/fonts/OpenSans-Semibold.svg
+File Name: c:\Downloaded Web Sites\al-can.com\fonts\OpenSans-Semibold.svg
+Content Type: image/svg+xml
+
+Uri: http://al-can.com/fonts/Roboto-Medium.woff
+File Name: c:\Downloaded Web Sites\al-can.com\fonts\Roboto-Medium.woff
+Content Type: application/x-font-woff
+
+Uri: http://al-can.com/fonts/Roboto-Medium.ttf
+File Name: c:\Downloaded Web Sites\al-can.com\fonts\Roboto-Medium.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://al-can.com/fonts/Roboto-Medium.svg
+File Name: c:\Downloaded Web Sites\al-can.com\fonts\Roboto-Medium.svg
+Content Type: image/svg+xml
+
+Uri: http://al-can.com/fonts/OpenSans.woff
+File Name: c:\Downloaded Web Sites\al-can.com\fonts\OpenSans.woff
+Content Type: application/x-font-woff
+
+Uri: http://al-can.com/fonts/OpenSans.ttf
+File Name: c:\Downloaded Web Sites\al-can.com\fonts\OpenSans.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://al-can.com/fonts/OpenSans.svg
+File Name: c:\Downloaded Web Sites\al-can.com\fonts\OpenSans.svg
+Content Type: image/svg+xml
+
+Uri: http://al-can.com/fonts/OpenSans-Bold.woff
+File Name: c:\Downloaded Web Sites\al-can.com\fonts\OpenSans-Bold.woff
+Content Type: application/x-font-woff
+
+Uri: http://al-can.com/fonts/OpenSans-Bold.ttf
+File Name: c:\Downloaded Web Sites\al-can.com\fonts\OpenSans-Bold.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://al-can.com/fonts/OpenSans-Bold.svg
+File Name: c:\Downloaded Web Sites\al-can.com\fonts\OpenSans-Bold.svg
+Content Type: image/svg+xml
+
+Uri: http://al-can.com/img/404.jpg
+File Name: c:\Downloaded Web Sites\al-can.com\img\404.jpg
+Content Type: image/jpeg
+
+Uri: http://al-can.com/img/about.jpg
+File Name: c:\Downloaded Web Sites\al-can.com\img\about.jpg
+Content Type: image/jpeg
+
+Uri: http://al-can.com/img/quality1.png
+File Name: c:\Downloaded Web Sites\al-can.com\img\quality1.png
+Content Type: image/png
+
+Uri: http://al-can.com/img/quality2.png
+File Name: c:\Downloaded Web Sites\al-can.com\img\quality2.png
+Content Type: image/png
+
+Uri: http://al-can.com/img/quality9.png
+File Name: c:\Downloaded Web Sites\al-can.com\img\quality9.png
+Content Type: image/png
+
+Uri: http://al-can.com/img/quality4.png
+File Name: c:\Downloaded Web Sites\al-can.com\img\quality4.png
+Content Type: image/png
+
+Uri: http://al-can.com/img/quality8.png
+File Name: c:\Downloaded Web Sites\al-can.com\img\quality8.png
+Content Type: image/png
+
+Uri: http://al-can.com/img/quality3.png
+File Name: c:\Downloaded Web Sites\al-can.com\img\quality3.png
+Content Type: image/png
+
+Uri: http://al-can.com/img/quality7.png
+File Name: c:\Downloaded Web Sites\al-can.com\img\quality7.png
+Content Type: image/png
+
+Uri: http://al-can.com/img/quality11.png
+File Name: c:\Downloaded Web Sites\al-can.com\img\quality11.png
+Content Type: image/png
+
+Uri: http://al-can.com/img/quality12.png
+File Name: c:\Downloaded Web Sites\al-can.com\img\quality12.png
+Content Type: image/png
+
+Uri: http://al-can.com/img/quality13.png
+File Name: c:\Downloaded Web Sites\al-can.com\img\quality13.png
+Content Type: image/png
+
+Uri: http://al-can.com/img/quality15.png
+File Name: c:\Downloaded Web Sites\al-can.com\img\quality15.png
+Content Type: image/png
+
+Uri: http://al-can.com/img/quality14.png
+File Name: c:\Downloaded Web Sites\al-can.com\img\quality14.png
+Content Type: image/png
+
+Uri: http://al-can.com/img/custom.jpg
+File Name: c:\Downloaded Web Sites\al-can.com\img\custom.jpg
+Content Type: image/jpeg
+
+Uri: http://al-can.com/img/export.jpg
+File Name: c:\Downloaded Web Sites\al-can.com\img\export.jpg
+Content Type: image/jpeg
+
+Uri: http://al-can.com/img/ind.jpg
+File Name: c:\Downloaded Web Sites\al-can.com\img\ind.jpg
+Content Type: image/jpeg
+
+Uri: http://al-can.com/img/uae.jpg
+File Name: c:\Downloaded Web Sites\al-can.com\img\uae.jpg
+Content Type: image/jpeg
+
+Uri: http://al-can.com/img/frosted.png
+File Name: c:\Downloaded Web Sites\al-can.com\img\frosted.png
+Content Type: image/png
+
+Uri: http://al-can.com/img/bright.png
+File Name: c:\Downloaded Web Sites\al-can.com\img\bright.png
+Content Type: image/png
+
+Uri: http://al-can.com/img/silver.png
+File Name: c:\Downloaded Web Sites\al-can.com\img\silver.png
+Content Type: image/png
+
+Uri: http://al-can.com/img/gold.png
+File Name: c:\Downloaded Web Sites\al-can.com\img\gold.png
+Content Type: image/png
+
+Uri: http://al-can.com/img/red.png
+File Name: c:\Downloaded Web Sites\al-can.com\img\red.png
+Content Type: image/png
+
+Uri: http://al-can.com/img/blue.png
+File Name: c:\Downloaded Web Sites\al-can.com\img\blue.png
+Content Type: image/png
+
+Uri: http://al-can.com/img/green.png
+File Name: c:\Downloaded Web Sites\al-can.com\img\green.png
+Content Type: image/png
+
+Uri: http://al-can.com/img/gold2.png
+File Name: c:\Downloaded Web Sites\al-can.com\img\gold2.png
+Content Type: image/png
+
+Uri: http://al-can.com/img/cap-print.png
+File Name: c:\Downloaded Web Sites\al-can.com\img\cap-print.png
+Content Type: image/png
+
+Uri: http://al-can.com/img/internal-lacquering.png
+File Name: c:\Downloaded Web Sites\al-can.com\img\internal-lacquering.png
+Content Type: image/png
+
+Uri: http://al-can.com/img/seal-print.png
+File Name: c:\Downloaded Web Sites\al-can.com\img\seal-print.png
+Content Type: image/png
+
+Uri: http://al-can.com/img/cap-embossing.png
+File Name: c:\Downloaded Web Sites\al-can.com\img\cap-embossing.png
+Content Type: image/png
+
+Uri: http://al-can.com/img/bottom-embossing.png
+File Name: c:\Downloaded Web Sites\al-can.com\img\bottom-embossing.png
+Content Type: image/png
+
+Uri: http://al-can.com/img/e-model.jpg
+File Name: c:\Downloaded Web Sites\al-can.com\img\e-model.jpg
+Content Type: image/jpeg
+
+Uri: http://al-can.com/img/top-embossing.png
+File Name: c:\Downloaded Web Sites\al-can.com\img\top-embossing.png
+Content Type: image/png
+
+Uri: http://al-can.com/screw-cans-with-screw-pump.html
+File Name: c:\Downloaded Web Sites\al-can.com\screw-cans-with-screw-pump.html
+Content Type: text/html
+
+Uri: http://al-can.com/screw-cans-with-crimp-pump.html
+File Name: c:\Downloaded Web Sites\al-can.com\screw-cans-with-crimp-pump.html
+Content Type: text/html
+
+Uri: http://al-can.com/screw-cans-with-screw-cap.html
+File Name: c:\Downloaded Web Sites\al-can.com\screw-cans-with-screw-cap.html
+Content Type: text/html
+
+Uri: http://al-can.com/img/screw-pump .jpg
+File Name: c:\Downloaded Web Sites\al-can.com\img\screw-pump .jpg
+Content Type: image/jpeg
+
+Uri: http://al-can.com/img/crimp-pump.jpg
+File Name: c:\Downloaded Web Sites\al-can.com\img\crimp-pump.jpg
+Content Type: image/jpeg
+
+Uri: http://al-can.com/img/screw-cap.jpg
+File Name: c:\Downloaded Web Sites\al-can.com\img\screw-cap.jpg
+Content Type: image/jpeg
+
+Uri: http://al-can.com/fonts/Roboto-Regular.eot
+File Name: c:\Downloaded Web Sites\al-can.com\fonts\Roboto-Regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://al-can.com/fonts/Allerta-Regular.eot
+File Name: c:\Downloaded Web Sites\al-can.com\fonts\Allerta-Regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://al-can.com/fonts/OpenSans-Semibold.eot
+File Name: c:\Downloaded Web Sites\al-can.com\fonts\OpenSans-Semibold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://al-can.com/fonts/Roboto-Medium.eot
+File Name: c:\Downloaded Web Sites\al-can.com\fonts\Roboto-Medium.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://al-can.com/fonts/OpenSans.eot
+File Name: c:\Downloaded Web Sites\al-can.com\fonts\OpenSans.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://al-can.com/fonts/OpenSans-Bold.eot
+File Name: c:\Downloaded Web Sites\al-can.com\fonts\OpenSans-Bold.eot
+Content Type: application/vnd.ms-fontobject
+
